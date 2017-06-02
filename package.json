@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-nativecamera",
+  "version": "1.0.0",
+  "description": "This camara plugin uses a custom activity to run in the foreground in Android to prevent Cordova from being killed.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SameWave/cordova-plugin-nativecamera.git"
+  },
+  "keywords": [
+    "cordova",
+    "android",
+    "camera",
+    "foreground"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/SameWave/cordova-plugin-nativecamera/issues"
+  },
+  "homepage": "https://github.com/SameWave/cordova-plugin-nativecamera#readme"
+}
