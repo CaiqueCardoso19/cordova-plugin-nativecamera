@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-nativecamera",  
+  "description": "Cordova Camera Plugin",
+  "types": "./types/index.d.ts",
+  "cordova": {
+    "id": "cordova-plugin-nativecamera",
+    "platforms": [
+      "firefoxos",
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "blackberry10",
+      "wp7",
+      "wp8",
+      "windows8",
+      "browser",
+      "windows"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CaiqueCardoso19/cordova-plugin-nativecamera"
+  }
+}
