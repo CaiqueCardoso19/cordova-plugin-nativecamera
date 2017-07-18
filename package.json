@@ -2,6 +2,7 @@
   "name": "cordova-plugin-nativecamera",  
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
+  "version": "1.0.0",
   "cordova": {
     "id": "cordova-plugin-nativecamera",
     "platforms": [
